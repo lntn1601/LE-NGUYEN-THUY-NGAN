@@ -42,9 +42,9 @@
 
 📎 첨부 문서
 
-📄 이력서 (KOR)
+📄 [이력서 (KOR)](https://github.com/lntn1601/LE-NGUYEN-THUY-NGAN/blob/main/LE%20NGUYEN%20THUY%20NGAN%20%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
 
-📘 포트폴리오 (PDF)
+📘 [포트폴리오 (PDF)](https://github.com/lntn1601/LE-NGUYEN-THUY-NGAN/blob/main/PORTFOLIO-LE%20NGUYEN%20THUY%20NGAN.pdf) 
 
 📬 연락처
 📧 이메일: lenguyenthuyngan.huflit@gmail.com
